@@ -1,0 +1,20 @@
+{
+  "name": "project-flashcards-console",
+  "version": "1.0.0",
+  "description": "## Введение Вам предстоит создать приложение для флэш-карт, которое должно работать как показано на Рисунке 1. Сосредоточьтесь на написании элегантного, объектно-ориентированного кода, не забывая при этом о качественном проектировании и об отборе лучших методов.",
+  "main": "Controller.js",
+  "scripts": {
+    "start": "node runner.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SedoyGnom/project-flashcards-console.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SedoyGnom/project-flashcards-console/issues"
+  },
+  "homepage": "https://github.com/SedoyGnom/project-flashcards-console#readme"
+}
